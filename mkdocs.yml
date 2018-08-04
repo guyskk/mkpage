@@ -1,4 +1,6 @@
-site_name: RestAction
-pages:
-  - Home: index.md
-repo_url: 'https://github.com/guyskk/flask-restaction'
+site_name:   RestAction
+
+nav:
+  - Home:    index.md
+
+repo_url:    'https://github.com/guyskk/flask-restaction'
